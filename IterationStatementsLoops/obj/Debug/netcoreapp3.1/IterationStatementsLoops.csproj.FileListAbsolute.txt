@@ -1,0 +1,14 @@
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.exe
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.deps.json
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.runtimeconfig.json
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.runtimeconfig.dev.json
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.dll
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\bin\Debug\netcoreapp3.1\IterationStatementsLoops.pdb
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.csproj.AssemblyReference.cache
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.AssemblyInfoInputs.cache
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.AssemblyInfo.cs
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.csproj.CoreCompileInputs.cache
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.dll
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.pdb
+C:\Users\atpcy\Desktop\repos\IterationStatementsLoops\IterationStatementsLoops\obj\Debug\netcoreapp3.1\IterationStatementsLoops.genruntimeconfig.cache
